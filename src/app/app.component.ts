@@ -57,6 +57,4 @@ this.teams [i] = [member]
 this.members=[];
 this.numberOfTeams='';
   }
-
-
 }
